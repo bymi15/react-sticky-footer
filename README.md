@@ -1,1 +1,1 @@
-# react-sticky-banner
+# React-Sticky-Footer
